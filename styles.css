@@ -32,6 +32,10 @@ h3 {
 
 }
 
+.circular {
+    border-radius: 100%;
+}
+
 .contact-me {
      padding: 10px;
      bottom: 30px;
